@@ -8,11 +8,13 @@ Adding all the codes and essential notes from the book **Python for Data Analysi
 3. [Ch04 - Numpy Basics: Arrays and Vectorized Computation](https://github.com/PalashSharma15/python-for-data-analysis-2nd-ed-notes/blob/master/ch04/ch04.ipynb)
 8. [Ch09 - Plotting and Visualization](https://github.com/PalashSharma15/python-for-data-analysis-2nd-ed-notes/blob/master/ch09/ch09.ipynb)
 
-#### Note
+#### Notes
 1. There are sections in the book where I felt need of some other resources, I have added references to those resources in the corresponding notebooks and in the references as well.
 2. Kindly appreciate the work of author by buying this book.
 3. Because of new upgrades in python packages, some of the code snippets are different from the book. However intent of particular blocks of codes are still similar to the book itself. 
 
 #### References
-1. [Official Wes McKinney Github repo for the book](https://github.com/wesm/pydata-book)
+1. [Official Wes McKinney Github repo for the book](https://github.com/wesm/pydata-book) and Book - Python for Data Analysis (2nd Edition) by Wes Mickinney
 2. [Jake VanderPlas' blog on erros and debugging](https://jakevdp.github.io/PythonDataScienceHandbook/01.06-errors-and-debugging.html#Partial-list-of-debugging-commands)
+3. [Writing mathematical expressions in matplotlib](https://matplotlib.org/3.1.3/tutorials/text/mathtext.html)
+4. [How does numpy meshgrid() method works](https://www.geeksforgeeks.org/numpy-meshgrid-function/)
