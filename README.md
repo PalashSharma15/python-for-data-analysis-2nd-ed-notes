@@ -17,4 +17,5 @@ Adding all the codes and essential notes from the book **Python for Data Analysi
 1. [Official Wes McKinney Github repo for the book](https://github.com/wesm/pydata-book) and Book - Python for Data Analysis (2nd Edition) by Wes McKinney
 2. [Jake VanderPlas' blog on erros and debugging](https://jakevdp.github.io/PythonDataScienceHandbook/01.06-errors-and-debugging.html#Partial-list-of-debugging-commands)
 3. [Writing mathematical expressions in matplotlib](https://matplotlib.org/3.1.3/tutorials/text/mathtext.html)
-4. [How does numpy meshgrid() method works](https://www.geeksforgeeks.org/numpy-meshgrid-function/)
+4. [How does NumPy meshgrid() method works](https://www.geeksforgeeks.org/numpy-meshgrid-function/)
+5. [w3resource NumPy practice problems](https://www.w3resource.com/python-exercises/numpy/index.php)
