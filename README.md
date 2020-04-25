@@ -6,6 +6,8 @@ Adding all the codes and essential notes from the book **Python for Data Analysi
 1. [Ch02 - Python Language Basics, IPython and Jupyter Notebooks](https://github.com/PalashSharma15/python-for-data-analysis-2nd-ed-notes/blob/master/ch02/ch02.ipynb)  
 2. [Ch03 - Built-in Data Structures, Functions, and Files](https://github.com/PalashSharma15/python-for-data-analysis-2nd-ed-notes/blob/master/ch03/ch03.ipynb)
 3. [Ch04 - Numpy Basics: Arrays and Vectorized Computation](https://github.com/PalashSharma15/python-for-data-analysis-2nd-ed-notes/blob/master/ch04/ch04.ipynb)
+4. [Ch05 - Getting Started with pandas](https://github.com/PalashSharma15/python-for-data-analysis-2nd-ed-notes/blob/master/ch05/ch05.ipynb)
+5. [Ch06 - Data Loading, Storage, and File Formats](https://github.com/PalashSharma15/python-for-data-analysis-2nd-ed-notes/blob/master/ch06/ch06.ipynb)
 8. [Ch09 - Plotting and Visualization](https://github.com/PalashSharma15/python-for-data-analysis-2nd-ed-notes/blob/master/ch09/ch09.ipynb)
 
 #### Notes
