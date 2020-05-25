@@ -11,6 +11,7 @@ Adding all the codes and essential notes from the book **Python for Data Analysi
 6. [Ch07 - Data Cleaning and Preperation](https://github.com/PalashSharma15/python-for-data-analysis-2nd-ed-notes/blob/master/ch07/ch07.ipynb)
 7. [Ch08 - Data Wrangling: Join, Combine, and Reshape](https://github.com/PalashSharma15/python-for-data-analysis-2nd-ed-notes/blob/master/ch08/ch08.ipynb)
 8. [Ch09 - Plotting and Visualization](https://github.com/PalashSharma15/python-for-data-analysis-2nd-ed-notes/blob/master/ch09/ch09.ipynb)
+9. [Ch10 - Data Aggregation and Group Operations](https://github.com/PalashSharma15/python-for-data-analysis-2nd-ed-notes/blob/master/ch10/ch10.ipynb)
 
 #### Notes
 1. There are sections in the book where I felt need of some other resources, I have added references to those resources in the corresponding notebooks and in the references as well.
