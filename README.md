@@ -18,7 +18,7 @@ Adding all the codes and essential notes till Time Series from the book **Python
 1. There are sections in the book where I felt need of some other resources, I have added references to those resources in the corresponding notebooks and in the references as well.
 2. Kindly appreciate the work of author by buying this book.
 3. Because of new upgrades in python packages, some of the code snippets are different from the book. However purpose of particular blocks of codes are still similar to the book itself.
-4. Advance Pandas, Introduction to modelling libraries in python, Data Analysis examples, and Apendix are not included.
+4. Advance Pandas, Introduction To Modelling Libraries In Python, Data Analysis Examples, and Apendix are not included.
 
 #### References
 1. [Official Wes McKinney Github repo for the book](https://github.com/wesm/pydata-book) and Book - Python for Data Analysis (2nd Edition) by Wes McKinney
