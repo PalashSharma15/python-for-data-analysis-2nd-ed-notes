@@ -12,7 +12,7 @@ Adding all the codes and essential notes till Time Series from the book **Python
 7. [Ch08 - Data Wrangling: Join, Combine, and Reshape](https://github.com/PalashSharma15/python-for-data-analysis-2nd-ed-notes/blob/master/ch08/ch08.ipynb)
 8. [Ch09 - Plotting and Visualization](https://github.com/PalashSharma15/python-for-data-analysis-2nd-ed-notes/blob/master/ch09/ch09.ipynb)
 9. [Ch10 - Data Aggregation and Group Operations](https://github.com/PalashSharma15/python-for-data-analysis-2nd-ed-notes/blob/master/ch10/ch10.ipynb)
-10. [Ch11 - Time Series](https://github.com/PalashSharma15/python-for-data-analysis-2nd-ed-notes/blob/master/ch10/ch11.ipynb)
+10. [Ch11 - Time Series](https://github.com/PalashSharma15/python-for-data-analysis-2nd-ed-notes/blob/master/ch11/ch11.ipynb)
 
 #### Notes
 1. There are sections in the book where I felt need of some other resources, I have added references to those resources in the corresponding notebooks and in the references as well.
