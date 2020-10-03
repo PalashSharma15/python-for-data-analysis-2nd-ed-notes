@@ -1,3 +1,4 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/PalashSharma15/python-for-data-analysis-2nd-ed-notes/master)
 # python-for-data-analysis-2nd-ed-notes
 
 Adding all the codes and essential notes till Time Series from the book **Python for Data Analysis (2nd Edition) by Wes McKinney** in Jupyter Notebooks
